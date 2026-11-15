@@ -1,0 +1,6 @@
+{
+  "name": "দোকান হিসাব",
+  "description": "স্মার্ট দোকান হিসাব — ছোট দোকানের দৈনিক বিক্রি, কাস্টমার বাকি, জমা ও খরচের অফলাইন হিসাবরক্ষক অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

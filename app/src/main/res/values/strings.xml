@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">দোকান হিসাব</string>
+    <string name="app_subtitle">স্মার্ট দোকান হিসাব</string>
+    <string name="default_shop_name">আমার দোকান</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_customers">কাস্টমার</string>
+    <string name="nav_sales">বিক্রি</string>
+    <string name="nav_due">বাকি</string>
+    <string name="nav_settings">সেটিংস</string>
+</resources>
